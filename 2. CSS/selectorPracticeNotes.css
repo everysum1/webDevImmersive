@@ -1,0 +1,56 @@
+/* Element*/
+-----------------
+li {
+	
+}
+
+/*id*/
+-----------------
+#special {
+	
+}
+
+/*Class*/
+-----------------
+.name {
+	
+}
+
+/*Star*/
+-----------------
+* {
+	/*selects every element on the page*/
+	border: 1px solid grey;
+}
+
+
+/*Descendent selectors*/
+-----------------
+li a {
+	color: red;
+}
+
+/*Adjacent selectors*/
+-----------------
+h4 + ul {
+	border: 4px solid red;
+}
+
+/*Attribute selectors*/ 
+-----------------
+a[href="http://www.google.com"] {
+	background: blue;
+}
+
+input[type="password"] {
+
+}
+
+/*nth of type*/
+-----------------
+ul:nth-of-type(3) {
+	background: purple;
+}
+
+
+

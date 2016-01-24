@@ -1,0 +1,22 @@
+div {
+	float: left;
+}
+
+h1 {
+	text-align: left;
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-weight: bold;
+	border-bottom: 2px solid #F1F1F1;
+	width: 30%;
+	padding-bottom: 20px;
+}
+
+table {
+	margin: auto;
+}
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
